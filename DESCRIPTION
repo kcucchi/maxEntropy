@@ -1,0 +1,15 @@
+Package: maxEntropy
+Type: Package
+Title: Maximum entropy density estimation
+Version: 0.0.0.9000
+Date: 2015-11-23
+Author: Karina Cucchi and Changhong Wang
+Maintainer: Karina Cucchi <karina.cucchi@berkeley.edu>
+Description: Calculates probability density function using the principle of maximum entropy.
+Depends:
+    R (>= 3.1.2)
+Imports: 
+	matrixcalc
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1
